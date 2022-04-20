@@ -49,13 +49,7 @@ public class ConnectToVirtuoso {
 	public ConnectToVirtuoso() {
            // String virtuosoProperties=Resources.getETIFolder()+"virtuosoProperties.txt";
           //  this.initializeVirtuosoProperties(virtuosoProperties);
-               
-
-                this.virtuosoHost = "83.212.97.78";
-		this.virtuosoPort = "1111";
-		this.virtuosoUserName = "dba";
-		this.virtuosoPassword = "nC9s"; 
-
+              
 	}
 
         private void initializeVirtuosoProperties(String virtuosoProperties){
